@@ -1,0 +1,7 @@
+C:\Users\fh0102\Desktop\Estudos\Exercicio12-pilha\bin\Debug\Exercicio12-pilha.exe.config
+C:\Users\fh0102\Desktop\Estudos\Exercicio12-pilha\bin\Debug\Exercicio12-pilha.exe
+C:\Users\fh0102\Desktop\Estudos\Exercicio12-pilha\bin\Debug\Exercicio12-pilha.pdb
+C:\Users\fh0102\Desktop\Estudos\Exercicio12-pilha\obj\Debug\Exercicio12-pilha.csprojAssemblyReference.cache
+C:\Users\fh0102\Desktop\Estudos\Exercicio12-pilha\obj\Debug\Exercicio12-pilha.csproj.CoreCompileInputs.cache
+C:\Users\fh0102\Desktop\Estudos\Exercicio12-pilha\obj\Debug\Exercicio12-pilha.exe
+C:\Users\fh0102\Desktop\Estudos\Exercicio12-pilha\obj\Debug\Exercicio12-pilha.pdb
