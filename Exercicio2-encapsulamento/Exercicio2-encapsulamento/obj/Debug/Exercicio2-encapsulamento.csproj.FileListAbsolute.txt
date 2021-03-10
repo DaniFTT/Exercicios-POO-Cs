@@ -1,0 +1,7 @@
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio2-encapsulamento\bin\Debug\Exercicio2-encapsulamento.exe.config
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio2-encapsulamento\bin\Debug\Exercicio2-encapsulamento.exe
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio2-encapsulamento\bin\Debug\Exercicio2-encapsulamento.pdb
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio2-encapsulamento\obj\Debug\Exercicio2-encapsulamento.csprojAssemblyReference.cache
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio2-encapsulamento\obj\Debug\Exercicio2-encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio2-encapsulamento\obj\Debug\Exercicio2-encapsulamento.exe
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio2-encapsulamento\obj\Debug\Exercicio2-encapsulamento.pdb

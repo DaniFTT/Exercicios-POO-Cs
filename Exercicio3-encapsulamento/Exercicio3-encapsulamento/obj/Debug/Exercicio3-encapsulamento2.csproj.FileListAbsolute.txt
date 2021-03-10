@@ -1,0 +1,20 @@
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio3-encapsulamento2\bin\Debug\Exercicio3-encapsulamento2.exe.config
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio3-encapsulamento2\bin\Debug\Exercicio3-encapsulamento2.exe
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio3-encapsulamento2\bin\Debug\Exercicio3-encapsulamento2.pdb
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio3-encapsulamento2\obj\Debug\Exercicio3-encapsulamento2.csprojAssemblyReference.cache
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio3-encapsulamento2\obj\Debug\Exercicio3_encapsulamento2.Form1.resources
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio3-encapsulamento2\obj\Debug\Exercicio3_encapsulamento2.Properties.Resources.resources
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio3-encapsulamento2\obj\Debug\Exercicio3-encapsulamento2.csproj.GenerateResource.cache
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio3-encapsulamento2\obj\Debug\Exercicio3-encapsulamento2.csproj.CoreCompileInputs.cache
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio3-encapsulamento2\obj\Debug\Exercicio3-encapsulamento2.exe
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio3-encapsulamento2\obj\Debug\Exercicio3-encapsulamento2.pdb
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio3-encapsulamento\bin\Debug\Exercicio3-encapsulamento2.exe.config
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio3-encapsulamento\bin\Debug\Exercicio3-encapsulamento2.exe
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio3-encapsulamento\bin\Debug\Exercicio3-encapsulamento2.pdb
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio3-encapsulamento\obj\Debug\Exercicio3-encapsulamento2.csprojAssemblyReference.cache
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio3-encapsulamento\obj\Debug\Exercicio3_encapsulamento2.Form1.resources
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio3-encapsulamento\obj\Debug\Exercicio3_encapsulamento2.Properties.Resources.resources
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio3-encapsulamento\obj\Debug\Exercicio3-encapsulamento2.csproj.GenerateResource.cache
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio3-encapsulamento\obj\Debug\Exercicio3-encapsulamento2.csproj.CoreCompileInputs.cache
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio3-encapsulamento\obj\Debug\Exercicio3-encapsulamento2.exe
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio3-encapsulamento\obj\Debug\Exercicio3-encapsulamento2.pdb

@@ -1,0 +1,7 @@
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio1-classes-e-objetos\bin\Debug\Exercicio1-classes-e-objetos.exe.config
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio1-classes-e-objetos\bin\Debug\Exercicio1-classes-e-objetos.exe
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio1-classes-e-objetos\bin\Debug\Exercicio1-classes-e-objetos.pdb
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio1-classes-e-objetos\obj\Debug\Exercicio1-classes-e-objetos.csprojAssemblyReference.cache
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio1-classes-e-objetos\obj\Debug\Exercicio1-classes-e-objetos.csproj.CoreCompileInputs.cache
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio1-classes-e-objetos\obj\Debug\Exercicio1-classes-e-objetos.exe
+C:\Users\diel-\Desktop\Daniel\FTT\Estrutura de Dados\Exercicio1-classes-e-objetos\obj\Debug\Exercicio1-classes-e-objetos.pdb
