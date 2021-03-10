@@ -1,0 +1,10 @@
+C:\Users\fh0102\Desktop\Estudos\Exercicio11-listas\obj\Debug\Exercicio11-listas.csprojAssemblyReference.cache
+C:\Users\fh0102\Desktop\Estudos\Exercicio11-listas\obj\Debug\Exercicio11_listas.Form1.resources
+C:\Users\fh0102\Desktop\Estudos\Exercicio11-listas\obj\Debug\Exercicio11_listas.Properties.Resources.resources
+C:\Users\fh0102\Desktop\Estudos\Exercicio11-listas\obj\Debug\Exercicio11-listas.csproj.GenerateResource.cache
+C:\Users\fh0102\Desktop\Estudos\Exercicio11-listas\obj\Debug\Exercicio11-listas.csproj.CoreCompileInputs.cache
+C:\Users\fh0102\Desktop\Estudos\Exercicio11-listas\bin\Debug\Exercicio11-listas.exe.config
+C:\Users\fh0102\Desktop\Estudos\Exercicio11-listas\bin\Debug\Exercicio11-listas.exe
+C:\Users\fh0102\Desktop\Estudos\Exercicio11-listas\bin\Debug\Exercicio11-listas.pdb
+C:\Users\fh0102\Desktop\Estudos\Exercicio11-listas\obj\Debug\Exercicio11-listas.exe
+C:\Users\fh0102\Desktop\Estudos\Exercicio11-listas\obj\Debug\Exercicio11-listas.pdb
