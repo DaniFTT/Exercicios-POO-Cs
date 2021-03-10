@@ -1,0 +1,20 @@
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio5-exercicios-propriedades\bin\Debug\Exercicio5-exercicios-propriedades.exe.config
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio5-exercicios-propriedades\bin\Debug\Exercicio5-exercicios-propriedades.exe
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio5-exercicios-propriedades\bin\Debug\Exercicio5-exercicios-propriedades.pdb
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5-exercicios-propriedades.csprojAssemblyReference.cache
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5_exercicios_propriedades.Form1.resources
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5_exercicios_propriedades.Properties.Resources.resources
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5-exercicios-propriedades.csproj.GenerateResource.cache
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5-exercicios-propriedades.csproj.CoreCompileInputs.cache
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5-exercicios-propriedades.exe
+C:\Users\diel-\Desktop\Daniel\FTT\POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5-exercicios-propriedades.pdb
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\Exercicios\Exercicio5-exercicios-propriedades\bin\Debug\Exercicio5-exercicios-propriedades.exe.config
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\Exercicios\Exercicio5-exercicios-propriedades\bin\Debug\Exercicio5-exercicios-propriedades.exe
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\Exercicios\Exercicio5-exercicios-propriedades\bin\Debug\Exercicio5-exercicios-propriedades.pdb
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5-exercicios-propriedades.csprojAssemblyReference.cache
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5_exercicios_propriedades.Form1.resources
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5_exercicios_propriedades.Properties.Resources.resources
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5-exercicios-propriedades.csproj.GenerateResource.cache
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5-exercicios-propriedades.csproj.CoreCompileInputs.cache
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5-exercicios-propriedades.exe
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\Exercicios\Exercicio5-exercicios-propriedades\obj\Debug\Exercicio5-exercicios-propriedades.pdb
