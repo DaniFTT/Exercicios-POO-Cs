@@ -1,0 +1,7 @@
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio8-sobrecarga\bin\Debug\Exercicio8-sobrecarga.exe.config
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio8-sobrecarga\bin\Debug\Exercicio8-sobrecarga.exe
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio8-sobrecarga\bin\Debug\Exercicio8-sobrecarga.pdb
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio8-sobrecarga\obj\Debug\Exercicio8-sobrecarga.csprojAssemblyReference.cache
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio8-sobrecarga\obj\Debug\Exercicio8-sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio8-sobrecarga\obj\Debug\Exercicio8-sobrecarga.exe
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio8-sobrecarga\obj\Debug\Exercicio8-sobrecarga.pdb

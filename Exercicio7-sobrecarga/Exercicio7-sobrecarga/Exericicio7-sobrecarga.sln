@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exericicio7-sobrecarga", "Exericicio7-sobrecarga.csproj", "{246F499E-C962-4148-B57A-274EC68A4FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{246F499E-C962-4148-B57A-274EC68A4FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246F499E-C962-4148-B57A-274EC68A4FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246F499E-C962-4148-B57A-274EC68A4FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246F499E-C962-4148-B57A-274EC68A4FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {218B027E-B8C5-414A-A1E5-1EC0B4BD8008}
+	EndGlobalSection
+EndGlobal

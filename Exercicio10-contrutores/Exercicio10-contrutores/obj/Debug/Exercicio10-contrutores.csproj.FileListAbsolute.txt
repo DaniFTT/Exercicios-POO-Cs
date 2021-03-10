@@ -1,0 +1,10 @@
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio10-contrutores\bin\Debug\Exercicio10-contrutores.exe.config
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio10-contrutores\bin\Debug\Exercicio10-contrutores.exe
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio10-contrutores\bin\Debug\Exercicio10-contrutores.pdb
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio10-contrutores\obj\Debug\Exercicio10-contrutores.csprojAssemblyReference.cache
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio10-contrutores\obj\Debug\Exercicio10_contrutores.Form1.resources
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio10-contrutores\obj\Debug\Exercicio10_contrutores.Properties.Resources.resources
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio10-contrutores\obj\Debug\Exercicio10-contrutores.csproj.GenerateResource.cache
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio10-contrutores\obj\Debug\Exercicio10-contrutores.csproj.CoreCompileInputs.cache
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio10-contrutores\obj\Debug\Exercicio10-contrutores.exe
+C:\Users\diel-\Desktop\Daniel\FTT\EDD E POO\POO\Exercicios\Exercicio10-contrutores\obj\Debug\Exercicio10-contrutores.pdb
